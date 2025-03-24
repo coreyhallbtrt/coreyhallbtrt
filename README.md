@@ -24,7 +24,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/www.linkedin.com/in/corey-hall-a03337241
+[linkedin]: https://linkedin.com/in/corey-hall-a03337241
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
