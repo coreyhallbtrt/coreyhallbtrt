@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/coreyhallbtrt/threat-hunting-scenario-tor-)**
 
+## ⚡ DISA STIG REMEDIATION WN10-AU-000500
+
+- **[The Application event log size must be configured to 32768 KB or greater](https://github.com/coreyhallbtrt/DISA-STIG-ID-WN10-AU-000500)**
+
 <hr/>
 
 ## 🤳 Connect With Me
