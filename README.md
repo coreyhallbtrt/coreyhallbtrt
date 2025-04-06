@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Google.exe Threat Hunting 
 
-- **[VM-google.exe-Threat-Hunt](https://github.com/coreyhallbtrt/VM-google.exe-Threat-Hunt)**
+- **[VM-google.exe-Threat-Hunt (Tampermonkey)](https://github.com/coreyhallbtrt/VM-google.exe-Threat-Hunt)**
 
 <hr/>
 
