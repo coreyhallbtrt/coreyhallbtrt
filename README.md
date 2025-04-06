@@ -16,6 +16,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[The Application event log size must be configured to 32768 KB or greater](https://github.com/coreyhallbtrt/DISA-STIG-ID-WN10-AU-000500)**
 
+## 🚨 Google.exe Threat Hunting 
+
+- **[VM-google.exe-Threat-Hunt](https://github.com/coreyhallbtrt/VM-google.exe-Threat-Hunt)**
+
 <hr/>
 
 ## 🤳 Connect With Me
