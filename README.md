@@ -20,6 +20,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[VM-google.exe-Threat-Hunt (Tampermonkey)](https://github.com/coreyhallbtrt/VM-google.exe-Threat-Hunt)**
 
+## 🔐 Attack Maps / Log Visualization in Microsoft Sentinel
+
+- **[Entra ID Logon Authentication Successes and Failures](https://github.com/coreyhallbtrt/Attack-Maps-Log-Visualization-in-Microsoft-Sentinel/tree/main)**
+
 <hr/>
 
 ## 🤳 Connect With Me
