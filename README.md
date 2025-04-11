@@ -24,6 +24,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Entra ID Logon Authentication Successes and Failures](https://github.com/coreyhallbtrt/Attack-Maps-Log-Visualization-in-Microsoft-Sentinel/tree/main)**
 
+## 🔥 Real-World Honeypot Threat Detection Lab
+
+- **[Honeypot-Threat-Detection-Lab](https://github.com/coreyhallbtrt/Honeypot-Threat-Detection-Lab/tree/main)**
+
 <hr/>
 
 ## 🤳 Connect With Me
