@@ -1,6 +1,10 @@
-# <a href="https://www.linkedin.com/in/corey-hall-a03337241/">Corey Hall</a>'s Cybersecurity Project Portfolio 
+# <a href="https://www.linkedin.com/in/corey-hall-a03337241/">Corey</a>'All-over-the-place 
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations!
+I'm passionate about all things cybersecurity, A.I and Quantum Physics related to how energy behaves and enerygy production. This respository contains past blue team labs and new read team labs using HackTheBox. I will also be writing my thoughts on A.I and quantum physics and energy(COMING SOON)! Im truly all over the place but it feels right so here it is. Corey All-over-the-place. Feel free to reach out to me at any time to discuss topics or colab together!!
+
+## 🔥 HackTheBox Educational Writeups (using AI) to Hack
+
+- **[HackTheBox Educational Writeups](https://github.com/coreyhallbtrt/HackTheBox-Educational-using-AI/tree/main)**
 
 
 ## ⚠️ Vulnerability Management Projects
